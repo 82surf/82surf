@@ -2,8 +2,6 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F82surfhit-counter&count_bg=%2340A2DD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" /></h2>
-
 기획하는 FE 개발자 유현수입니다.
 
 > [**노션**](https://82surf.notion.site/FE-0dd7c09a520f41ba8ad140200b520979)에서 저의 이력을 확인하실 수 있습니다. (2022.03. 업데이트)
